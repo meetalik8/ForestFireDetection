@@ -1,1 +1,2 @@
 # ForestFireDetection
+IOE Mini Project
